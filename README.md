@@ -2,7 +2,7 @@
 
 **Nome:** Miguel Lacerda  
 **Matrícula:** 202501025498  
-**Disciplina:** Desenvolvimento Web / Programação Back-End
+**Disciplina:** Projeto de dados 2
 
 API RESTful CRUD para o recurso **produtos**, desenvolvida com Node.js + Express, seguindo o padrão arquitetural MVC com armazenamento em memória.
 
